@@ -1,0 +1,7 @@
+{
+    "name": "AlwaysCountPlayers",
+    "description": "A mod for R.E.P.O. that automatically provides the map upgrade.",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Bocon778/AlwaysCountPlayers/",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+  }
