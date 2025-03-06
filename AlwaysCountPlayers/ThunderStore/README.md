@@ -1,0 +1,1 @@
+# Deprecated please use https://thunderstore.io/c/repo/p/Bocon/StatManager/ instead!
